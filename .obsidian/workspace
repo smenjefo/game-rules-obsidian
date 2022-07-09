@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "070b4e0511e8437a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e0563b4ba8730cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "битва/мухлеж.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e632d3129477641",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc11276b381eb04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4277fbe8a1e8d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dbaab100da865df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#тип_хода",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca655ac339fc1ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee1d1f36e587f812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6158542b11488597",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "битва/мухлеж.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e0563b4ba8730cc",
+  "lastOpenFiles": [
+    "битва/мухлеж.md",
+    "битва/жулик.md",
+    "битва/помощь.md",
+    "битва/донор.md",
+    "битва/пропуск хода.md",
+    "битва/формула подсчета очков здоровья.md",
+    "битва/раунд.md",
+    "битва/очки энергии.md",
+    "битва/товарищ.md",
+    "битва/маньяк.md"
+  ]
+}
